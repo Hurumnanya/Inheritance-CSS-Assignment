@@ -1,0 +1,66 @@
+body{
+    margin: 7%;
+    border: 1px solid blueviolet;
+    border-width: thick;
+    border-style: dashed;
+    border-radius: 100px;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+    color: rgb(16, 16, 151);
+    border: 1px solid white;
+    border-width: thick;
+    border-radius: 15px;
+    border-style:dashed;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px 0 20px 0;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#love{
+    color: rgb(235, 45, 76);
+}
+
+#hate{
+    color: purple;
+}
+
+.first_section{
+    margin-left: 400px;
+    margin-bottom: 50px;
+    /* color: white; */
+} 
+
+#likes{
+    background-color: rgb(240, 161, 15);
+    color: whitesmoke;
+    margin-right: 690px;
+    padding: 10px 0px 10px 10px;
+    border-radius: 7px;
+}
+
+.likes_class{
+    color: rgb(235, 45, 76);
+}
+
+.second_section{
+    margin-left: 400px;
+    margin-bottom: 70px;
+}
+
+#dislikes{
+    background-color: white;
+    color: black;
+    margin-right: 670px;
+    padding: 10px 0px 10px 10px;
+    border-radius: 7px;
+}
+
+.dislikes_class{
+    color: purple;
+}
